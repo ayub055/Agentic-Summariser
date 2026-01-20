@@ -1,0 +1,2 @@
+# Place LLM prompt templates here (*.txt, *.md, *.jinja2)
+# These files are gitignored - copy from .example files or create your own
