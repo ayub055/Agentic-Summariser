@@ -19,7 +19,7 @@ Example flow for "How much did CUST0001 spend on groceries?":
     THINK:  I have the answer now.
     RESPOND: CUST0001 spent $18,766.35 on groceries across 25 transactions.
 
-Run this file: python lesson_03_react_agent.py
+Run this file: python react.py
 """
 
 import pandas as pd
